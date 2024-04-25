@@ -13,12 +13,13 @@ Grab a friend, and play the game for yourself! You can find the game at:
 
 https://annabellexsmith.github.io/Connect-Four/
 
-This project was created based on requirements for the Browser-Based Game Project. Below you can find the website that contains the requirements.
-
-https://generalassembly.instructure.com/courses/246/pages/project-1-requirements
+This project was created based on requirements for the Browser-Based Game Project. Below you can find the wire frames used to guide the planning process.
+<img src="https://i.imgur.com/whh10Gm.png" alt="wire frame of the welcome screen">
+<img src="https://i.imgur.com/bhIwqwG.png" alt="wire frame of the playing board with tokens in slots">
+<img src="https://i.imgur.com/GOp7VIP.png" alt="wire frame of modal when a player loses">
 
 ## Technologies used: 
-- JavaScript
+- JavaScript 
 - HTML
 - CSS
 
