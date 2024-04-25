@@ -42,8 +42,8 @@ tryAgainButtonEl.addEventListener("click", function () {alertDisplayEl.close()})
 restartButtonEl.addEventListener("click", function() {resultDisplayEl.close(), init()});
 
 // FUNCTIONS ---------------------------------------------------------
+instructionEl.showModal();
 function init () {
-    instructionEl.showModal();
     board = [null, null, null, null, null, null, null, null, null, null, null,
              null, null, null, null, null, null, null, null, null, null, null,
               null, null, null];
@@ -52,7 +52,6 @@ function init () {
     messageEl.innerText = `It is ${LOOKUP[player]}'s turn`;
     render();
 };
-
 init ();
 
 function render() {
