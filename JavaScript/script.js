@@ -44,14 +44,17 @@ restartButtonEl.addEventListener("click", function() {resultDisplayEl.close(), i
 // FUNCTIONS ---------------------------------------------------------
 instructionEl.showModal();
 function init () {
-    board = [null, null, null, null, null, null, null, null, null, null, null,
-             null, null, null, null, null, null, null, null, null, null, null,
-              null, null, null];
+    board = [
+        null, null, null, null, null, null, null, null, null, null, null,
+        null, null, null, null, null, null, null, null, null, null, null,
+        null, null, null
+        ];
     player = 1;
     winner = false;
     messageEl.innerText = `It is ${LOOKUP[player]}'s turn`;
     render();
 };
+
 init ();
 
 function render() {
