@@ -6,7 +6,7 @@ Instructions:
 <img src="https://i.imgur.com/WoAEf11.png" alt="welcome screen with instructions">
 
 Board display:
-<img src="https://i.imgur.com/WoAEf11.png" alt="view of board with tokens">
+<img src="https://i.imgur.com/0t6nW1D.png" alt="view of board with tokens">
 
 ## Getting Started:
 Grab a friend, and play the game for yourself! You can find the game at:
