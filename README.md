@@ -1,13 +1,18 @@
 # Connect Four: A Web Based Game
-Project completed during Software Engineering Bootcamp at General Assembly 
+Project completed during Software Engineering Bootcamp at General Assembly.
+This version of Connect Four takes place in Seattle. The two players are designated to either sun or cloud tokens. Each player's goal is to place four tokens in a row before thir opponent. Based on who wins Seattle either gets an early spring or extended winter. This game was inspired by Seattle's unpredictable weather. 
 
 Instructions:
-![instruction display](https://github.com/Annabellexsmith/Connect-Four-Web-Based-Game/assets/155697443/ad2ff56b-49cb-4d50-9080-5cea6778691a)
+![instruction display](/Users/owner/Desktop/Instructions page.png)
 Board display:
-![playing board](https://github.com/Annabellexsmith/Connect-Four-Web-Based-Game/assets/155697443/dc49eacf-1ba6-43f5-845b-be9fec2a6780)
+![playing board](/Users/owner/Desktop/board page.png)
 
 # Getting Started:
-Grab a friend, and play the game for yourself! 
+Grab a friend, and play the game for yourself! You can find the game at:
+https://annabellexsmith.github.io/Connect-Four/
+
+This project was created based on requirements for the Browser-Based Game Project. Below you can find the website that contains the requirements. 
+https://generalassembly.instructure.com/courses/246/pages/project-1-requirements
 
 # Technologies used: 
 - JavaScript
@@ -15,7 +20,5 @@ Grab a friend, and play the game for yourself!
 - CSS
 
 # Next steps: 
-- Create different options for difficulty levels. As the difficulty increases, so will the amount of slots on the board.
-- Create an option for the player 2 to be a computer. 
-
-[text](README.md)
+- Create different options for difficulty levels. As the difficulty increases so will the amount of slots on the board.
+- Create an option for player 2 to be a computer. 

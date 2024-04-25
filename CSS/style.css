@@ -1,8 +1,3 @@
-.title {
-    font-size: 70px;
-    color: #338ADE;
-    margin: 0;
-}
 
 body {
     background-color: #CBFFD3;
@@ -10,6 +5,11 @@ body {
     text-align: center;
 }
 
+.title {
+    font-size: 70px;
+    color: #338ADE;
+    margin: 0;
+}
 .board {
     margin:auto; 
     display: flex;
