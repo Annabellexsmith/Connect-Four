@@ -1,0 +1,63 @@
+.title {
+    font-size: 70px;
+    color: #338ADE;
+    margin: 0;
+}
+
+body {
+    background-color: #CBFFD3;
+    margin: 0;
+    text-align: center;
+}
+
+.board {
+    margin:auto; 
+    display: flex;
+    flex-direction: column-reverse;
+    width: 500px;
+    justify-content: center;
+    border: 10px solid #004341;
+    background-color: #004341;
+}
+.slot {
+    width: 95px;
+    height: 95px;
+    border: 4px solid #004341;
+    text-align: center;
+    align-items: center;  
+    padding: 0px;
+    margin: 0px;
+    font-size: 70px;
+    border-radius: 80px;
+    background-color: #CBFFD3;
+}
+
+.column {
+    display: flex;
+}
+.main-page {
+    font-size: 1.75em;     
+}
+.button {
+    padding: 10px 32px;
+    font-size: 1em;
+    background-color: #E06597;
+    font-size: 1.5em;
+}
+
+dialog::backdrop {
+    background-color:#fbfbfbfd;
+}
+
+#instruction-modal, #alert-modal {
+    justify-content: center;
+    align-items: center;
+    padding: 5em;
+}
+
+.modal {
+    border: solid 3px #007A78;
+    padding: 10px 32px;
+    font-size: 1em;
+    background-color: #CBFFD3;
+}
