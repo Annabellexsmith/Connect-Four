@@ -3,10 +3,10 @@ Project completed during Software Engineering Bootcamp at General Assembly.
 This version of Connect Four takes place in Seattle. The two players are designated to either sun or cloud tokens. Each player's goal is to place four tokens in a row before thir opponent. Based on who wins Seattle either gets an early spring or extended winter. This game was inspired by Seattle's unpredictable weather. 
 
 Instructions:
-![Instruction screen](https://imgur.com/a/3rUf1Av)
+<img src="https://i.imgur.com/WoAEf11.png" alt="welcome screen with instructions">
 
 Board display:
-![Board display screen](https://imgur.com/a/qHLJRx0)
+<img src="https://i.imgur.com/WoAEf11.png" alt="view of board with tokens">
 
 ## Getting Started:
 Grab a friend, and play the game for yourself! You can find the game at:
